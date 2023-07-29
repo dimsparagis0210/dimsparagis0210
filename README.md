@@ -38,12 +38,12 @@
 
 |Title | Commits | Technologies|
 |--|--|--|
-| [Investment Calculator](https://github.com/dimsparagis0210/InvestmentCalculatorApp) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/dimsparagis0210/InvestmentCalculatorApp?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)|
-| [Expense Tracker](https://github.com/dimsparagis0210/ExpensesAppReact) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/dimsparagis0210/ExpensesAppReact?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+| [Investment Calculator](https://github.com/dimsparagis0210/InvestmentCalculatorApp) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/InvestmentCalculatorApp/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)|
+| [Expense Tracker](https://github.com/dimsparagis0210/ExpensesAppReact) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/ExpensesAppReact/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 
 </td><td>
 
-|Title | Stars | Technologies|
+|Title | Commits | Technologies|
 |--|--|--|
 | [High SQL](https://github.com/drkostas/high-sql) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/high-sql?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![SQLDown](https://static.pepy.tech/personalized-badge/high-sql?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/high-sql) |
 | [Cloud File Manager](https://github.com/drkostas/cloud-filemanager) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/cloud-filemanager?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
