@@ -60,7 +60,6 @@
 </td>
 </tr> </table>
 
-<details>
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
@@ -76,7 +75,6 @@ Currently Coding & Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dimsparagis&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=5ca659&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</details>
 
 <!--
 
