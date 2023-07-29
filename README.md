@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/dimsparagis0210">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF7E3&multiline=true&center=true&width=635&height=100&lines=Dimitris+Sparagis;Computer+Science+student+%7C++React+developer;Software+engineer+on+the+making" alt="Typing SVG" /></a></a>
 <br/>
  
@@ -13,9 +13,6 @@
 </a>
 <a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
-<a href="https://pypi.org/user/drkostas/">
-    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
 
 <br/> 
