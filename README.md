@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/dimsparagis0210">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF7E3&multiline=true&center=true&width=635&height=100&lines=Dimitris+Sparagis;Computer+Science+student+%7C++React+developer;Software+engineer+on+the+making" alt="Typing SVG" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&duration=1500&color=7BF7E3&multiline=true&center=true&width=635&height=100&lines=Dimitris+Sparagis;Computer+Science+student+%7C++React+developer;Software+engineer+on+the+making" alt="Typing SVG" /></a></a>
 <br/>
  
 <a href="https://www.linkedin.com/in/dimitris-sparagis-625978251">
@@ -11,8 +11,8 @@
 <a href="mailto:dimsparagis@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+<a href='' target="_blank">
+    <img alt='JetBrains' src='https://img.shields.io/jetbrains/web/d/:pluginId'>
 </a>
 
 <br/> 
@@ -25,11 +25,11 @@
 
 * 🎓 Pursuing Bsc in Computer Science @ [University of Macedonia](https://www.uom.gr/en/dai/computer-science-and-technology). 
 
-* ⚛ React
+* <p>⚛︎  React enthusiast</p>
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing.
+* <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&size=24&duration=1000&color=4DF78C&multiline=true&repeat=false&width=1000&height=34&lines=Everyone+should+learn+how+to+code%2C+it+teaches+you+how+to+think" alt="Typing SVG" /></a></p>
 
 ### 🖥️ Projects
 <table>
@@ -39,15 +39,7 @@
 |Title | Commits | Technologies|
 |--|--|--|
 | [Investment Calculator](https://github.com/dimsparagis0210/InvestmentCalculatorApp) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/dimsparagis0210/InvestmentCalculatorApp?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)|
-| [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Bert Rinehart Novels](https://github.com/drkostas/Bert-Rinehart-Novels) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
-| [Car Accidents Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
-| [Hybrid Girvan Newman](https://github.com/drkostas/HGN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/HGN?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
-| [COVID19 Vacc. Pred.](https://github.com/drkostas/covid19-vaccinations-predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/covid19-vaccinations-predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Instagram Likes Pred.](https://github.com/drkostas/Insta-Likes-Predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Insta-Likes-Predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [RL Value Iteration](https://github.com/drkostas/RL-Value-Iteration) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+| [Expense Tracker](https://github.com/dimsparagis0210/ExpensesAppReact) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/dimsparagis0210/ExpensesAppReact?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 
 </td><td>
 
