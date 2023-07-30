@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/dimsparagis0210">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&duration=1500&color=7BF7E3&multiline=true&center=true&width=635&height=100&lines=Dimitris+Sparagis;Computer+Science+student+%7C++React+developer;Software+engineer+on+the+making" alt="Typing SVG" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&duration=1500&color=7BF7E3&multiline=true&center=true&width=635&height=100&lines=Dimitris+Sparagis;Computer+Science+student+%7C+Junior+React+developer;Software+engineer+on+the+making" alt="Typing SVG" /></a></a>
 <br/>
  
 <a href="https://www.linkedin.com/in/dimitris-sparagis-625978251">
