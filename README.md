@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Dimitris here 👋
 
 <p align="center">
 <a href="https://github.com/dimsparagis0210">
