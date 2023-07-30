@@ -11,9 +11,6 @@
 <a href="mailto:dimsparagis@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='' target="_blank">
-    <img alt='JetBrains' src='https://img.shields.io/jetbrains/web/d/:pluginId'>
-</a>
 
 <br/> 
 
