@@ -53,6 +53,7 @@
 |Title | Commits | Technologies|
 |--|--|--|
 | [Quote Generator](https://github.com/dimsparagis0210/Quote-Generator) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/Quote-Generator/main?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
+| [Background Generator](https://github.com/dimsparagis0210/Background-Generator) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/Background-Generator/main?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
 
 </td>
 </tr> </table>
