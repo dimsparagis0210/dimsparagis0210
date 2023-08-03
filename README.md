@@ -11,12 +11,17 @@
 <a href="mailto:dimsparagis@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+<a href="https://medium.com/@dimsparagis">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)" />
+</a>
 
 <br/> 
 
 <a href="https://github.com/dimsparagis0210">
     <img src="https://github-stats-alpha.vercel.app/api?username=dimsparagis0210&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
+
 
 </p>
 
@@ -35,7 +40,7 @@
 
 |Title | Commits | Technologies|
 |--|--|--|
-| [Investment Calculator](https://github.com/dimsparagis0210/InvestmentCalculatorApp) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/InvestmentCalculatorApp/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)|
+| [Investment Calculator](https://github.com/dimsparagis0210/InvestmentCalculatorApp) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/InvestmentCalculatorApp/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) | ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwind)|
 | [Expense Tracker](https://github.com/dimsparagis0210/ExpensesAppReact) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/ExpensesAppReact/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 
 </td><td>
