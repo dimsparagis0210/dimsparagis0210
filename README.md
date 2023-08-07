@@ -41,7 +41,8 @@
 |Title | Commits | Technologies|
 |--|--|--|
 | [Investment Calculator](https://github.com/dimsparagis0210/InvestmentCalculatorApp) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/InvestmentCalculatorApp/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) | ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwind)|
-| [Expense Tracker](https://github.com/dimsparagis0210/ExpensesAppReact) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/ExpensesAppReact/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+| [Expense Tracker](https://github.com/dimsparagis0210/ExpensesAppReact) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/ExpensesAppReact/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) |
+| [Food Order App](https://github.com/dimsparagis0210/FoodOrderApp) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/FoodOrderApp/main?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 
 </td><td>
 
