@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/dimsparagis0210">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&duration=1500&color=7BF7E3&multiline=true&center=true&width=635&height=100&lines=Dimitris+Sparagis;Computer+Science+student+%7C+Junior+React+developer;Software+engineer+on+the+making" alt="Typing SVG" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=3DEAF7&center=true&vCenter=true&multiline=true&random=false&width=735&height=100&lines=Dimitris+Sparagis;Computer+Science+Student+%7C+Next.js+Developer+%7C+Designer;Software+engineer+on+the+making" /></a></a>
 <br/>
  
 <a href="https://www.linkedin.com/in/dimitris-sparagis-625978251">
@@ -27,7 +27,7 @@
 
 * 🎓 Pursuing Bsc in Computer Science @ [University of Macedonia](https://www.uom.gr/en/dai/computer-science-and-technology). 
 
-* <p>⚛︎  React enthusiast</p>
+* <p>⚛︎  React and Tailwind enthusiast</p>
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
@@ -56,13 +56,12 @@
 </td></tr> </table>
 
 <table>
-<tr><th>JavaScript </th></tr>
+<tr><th>Next.js </th></tr>
 <tr><td>
 
 |Title | Commits | Technologies|
 |--|--|--|
-| [Quote Generator](https://github.com/dimsparagis0210/Quote-Generator) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/Quote-Generator/main?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
-| [Background Generator](https://github.com/dimsparagis0210/Background-Generator) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/Background-Generator/main?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) |
+| [Dimitris Sparagis](https://github.com/dimsparagis0210/Dimitris-Sparagis) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/Quote-Generator/main?style=flat-square&labelColor=black"/> | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) |
 
 </td>
 </tr> </table>
