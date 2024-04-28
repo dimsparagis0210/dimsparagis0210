@@ -61,7 +61,7 @@
 
 |Title | Commits | Technologies|
 |--|--|--|
-| [Dimitris Sparagis](https://github.com/dimsparagis0210/Dimitris-Sparagis) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/Quote-Generator/main?style=flat-square&labelColor=black"/> | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) |
+| [Dimitris Sparagis](https://github.com/dimsparagis0210/Dimitris-Sparagis) | <img alt="Commits" src="https://img.shields.io/github/commit-activity/t/dimsparagis0210/Dimitris-Sparagis/main?style=flat-square&labelColor=black"/> | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) |
 
 </td>
 </tr> </table>
