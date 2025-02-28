@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/dimsparagis0210">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=3DEAF7&center=true&vCenter=true&multiline=true&random=false&width=735&height=100&lines=Dimitris+Sparagis;Computer+Science+Student+%7C+Next.js+Developer+%7C+Designer;Software+engineer+on+the+making" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=3DEAF7&center=true&vCenter=true&multiline=true&random=false&width=735&height=100&lines=Dimitris+Sparagis;Computer+Science+Student+%7C+Next.js+Developer+%7C+Designer;Software/ML+engineer+on+the+making" /></a></a>
 <br/>
 <a href="https://www.linkedin.com/in/dimitris-sparagis-625978251">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -34,11 +34,13 @@
 
 ### 🖥️ Projects
 <table>
-<tr><th>React </th><th>Java - Android</th></tr>
+<tr><th>Web Development</th><th>Java - Android</th></tr>
 <tr><td>
 
 |Title | Commits | Technologies|
 |--|--|--|
+| [Crowdfunding DApp Frontend](https://github.com/dimsparagis0210/Crowdfunding-frontend) | ![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/Crowdfunding-frontend?style=for-the-badge) | 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+| [Crowdfunding DApp Backend](https://github.com/dimsparagis0210/Crowdfunding-Smart-Contract.git) | ![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/Crowdfunding-Smart-Contract?style=for-the-badge) | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) |
 | [Tickr](https://github.com/dimsparagis0210/Tickr-app) | ![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/Tickr-app?style=for-the-badge) | 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) </br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | [Investment Calculator](https://github.com/dimsparagis0210/InvestmentCalculatorApp) | ![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/InvestmentCalculatorApp?style=for-the-badge) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|
 | [Expense Tracker](https://github.com/dimsparagis0210/ExpensesAppReact) | ![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/ExpensesAppReact?style=for-the-badge) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|
@@ -57,24 +59,26 @@
 </td></tr> </table>
 
 <table>
-<tr><th>Next.js </th></tr>
+<tr><th>Machine Learning - AI</th></tr>
 <tr><td>
 
 |Title | Commits | Technologies|
 |--|--|--|
-| [Dimitris Sparagis](https://github.com/dimsparagis0210/Dimitris-Sparagis) |![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/Dimitris-Sparagis?style=for-the-badge) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) </br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) </br> ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) </br>  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) </br> |
+| [DFU-using-Deep-Learning](https://github.com/dimsparagis0210/DFU-using-Deep-Learning.git) |![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/DFU-using-Deep-Learning?style=for-the-badge)  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) </br> ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
+| [Comparing-ML-Techniques-in-COVID19-Dataset](https://github.com/dimsparagis0210/Comparing-ML-Techniques-in-COVID19-Dataset.git) |![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/Comparing-ML-Techniques-in-COVID19-Dataset?style=for-the-badge)  | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) </br> ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| [Stock-Price-Predictor](https://github.com/dimsparagis0210/Stock-Price-Predictor.git) |![GitHub commits](https://img.shields.io/github/commit-activity/t/dimsparagis0210/Stock-Price-Predictor?style=for-the-badge)  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) </br> ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) </br> ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </td>
 </tr> </table>
 
 <summary>📈 Stats</summary>
 <br>
-My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimsparagis0210&theme=algolia) 
+### My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimsparagis0210&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dimsparagis0210&theme=algolia)
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=dimsparagis0210&theme=tokyonight)](https://git.io/streak-stats)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimsparagis0210&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 
 <br>
