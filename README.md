@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/dimsparagis0210">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=3DEAF7&center=true&vCenter=true&multiline=true&random=false&width=735&height=100&lines=Dimitris+Sparagis;Computer+Science+Student+%7C+Next.js+Developer+%7C+Designer;Software/ML+engineer+on+the+making" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=3DEAF7&center=true&vCenter=true&multiline=true&random=false&width=740&height=100&lines=Dimitris+Sparagis;Computer+Science+Student+%7C+Full+Stack+Web+Developer+%7C+Designer;Software/ML+engineer+on+the+making" /></a></a>
 <br/>
 <a href="https://www.linkedin.com/in/dimitris-sparagis-625978251">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
