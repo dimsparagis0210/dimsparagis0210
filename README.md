@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/dimsparagis0210">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=3DEAF7&center=true&vCenter=true&multiline=true&random=false&width=740&height=100&lines=Dimitris+Sparagis;Computer+Science+Student+%7C+Full+Stack+Web+Developer+%7C+Designer;Software/ML+engineer+on+the+making" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=3DEAF7&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Dimitris+Sparagis;Computer+Science+Graduate+%7C+Full+Stack+Software+Engineer+%7C+Designer;ML+engineer+on+the+making" /></a></a>
 <br/>
 <a href="https://www.linkedin.com/in/dimitris-sparagis-625978251">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -24,9 +24,7 @@
 
 </p>
 
-* 🎓 Pursuing Bsc in Computer Science @ [University of Macedonia](https://www.uom.gr/en/dai/computer-science-and-technology). 
-
-* <p>⚛︎  React and Tailwind enthusiast</p>
+* 🎓 Bsc in Computer Science @ [University of Macedonia](https://www.uom.gr/en/dai/computer-science-and-technology). 
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
@@ -85,7 +83,7 @@
 <br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dimsparagis&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=5ca659&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dimsparagis&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
